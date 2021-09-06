@@ -128,7 +128,7 @@
         } 
         if($delete == true){
             echo "<div class='alert alert-success alert-dismissible fade show' role='alert'>
-                    <strong>Success!</strong> Your note has been successfully deleted.
+                    <strong>Success!</strong> Your note has been successfully removed.
                     <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
                 </div>";
         }
