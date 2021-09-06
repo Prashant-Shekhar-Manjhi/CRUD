@@ -48,7 +48,7 @@
                 $insert = true;
             }
             else{
-                echo "error.....". mysqli_error($connection);
+                echo "error...". mysqli_error($connection);
             }
 
         }
